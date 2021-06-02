@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d-o-2021
+- 👋 Hi, I’m Deepanshu 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning core JAVA
 - 💞️ I’m looking to collaborate on ...
