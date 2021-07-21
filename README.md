@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshu 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning core JAVA
+- 🌱 I’m currently learning Adv JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
