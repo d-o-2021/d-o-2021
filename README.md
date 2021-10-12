@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deepanshu 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Adv JAVA
-- 💞️ I’m looking for an internship
+- 👀 Interested in coding
+- 🌱 Currently learning Adv JAVA
 - 📫 How to reach me ...
 
 <!---
