@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepanshu 
 - 👀 Interested in coding
-- 🌱 Currently learning Adv JAVA
-- 📫 How to reach me ...
+- 🌱 Love to code in JAVA
+- 📫 deepanshuoswal1989@gmail.com
 
 <!---
 d-o-2021/d-o-2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
