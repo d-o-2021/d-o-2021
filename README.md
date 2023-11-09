@@ -13,6 +13,9 @@ I'm currently working on live react native application<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=d-o-2021&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d-o-2021&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## LeetCode Stats: ([profile](https://leetcode.com/d-o-2021/))
+[![](https://leetcode-stats-six.vercel.app/api?username=d-o-2021)]()
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=d-o-2021&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
