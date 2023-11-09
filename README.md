@@ -23,4 +23,4 @@ I'm currently working on live react native application<br>
 ![](https://github-contributor-stats.vercel.app/api?username=d-o-2021&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=d-o-2021&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=d-o-2021&icon=0&color=1)]()
