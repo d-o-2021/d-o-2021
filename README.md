@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on live react native application<br>
+I'm currently working on live react native apps<br>
 
 
 ## 🌐 Socials:
